@@ -9,7 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; PyData Pune &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='https://PyDataPune.github.io/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://PyDataPune.github.io/wp-includes/css/dashicons.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://PyDataPune.github.io/wp-includes/css/buttons.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://PyDataPune.github.io/wp-admin/css/forms.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://PyDataPune.github.io/wp-admin/css/l10n.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://PyDataPune.github.io/wp-admin/css/login.min.css?ver=5.0.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
